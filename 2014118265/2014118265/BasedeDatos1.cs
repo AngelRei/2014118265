@@ -105,7 +105,7 @@ namespace _2014118265
 
             }
 
-            Console.WriteLine("Saldo disponible es :" + _cuent[variable].salTotal);
+            Console.WriteLine("Saldo Disponible :" + _cuent[variable].salTotal);
 
             return _cuent[variable].salTotal;
         }
