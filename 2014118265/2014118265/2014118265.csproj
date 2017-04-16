@@ -43,7 +43,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ATM.cs" />
-    <Compile Include="BasedeDatos.cs" />
+    <Compile Include="BasedeDatos1.cs" />
     <Compile Include="Cuenta.cs" />
     <Compile Include="DispensadorEfectivo.cs" />
     <Compile Include="Pantalla.cs" />
